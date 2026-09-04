@@ -1,0 +1,6 @@
+{
+  "name": "GREY IA",
+  "description": "Tu herramienta definitiva de inteligencia artificial. Plataforma completa con Director IA, Chat, Generación y Edición de Imágenes, Vídeo, Audio y Estudios Creativos.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
